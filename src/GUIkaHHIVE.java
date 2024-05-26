@@ -14,6 +14,7 @@ public class GUIkaHHIVE extends javax.swing.JFrame {
      */
     public GUIkaHHIVE() {
         initComponents();
+        String HiLex;
     }
 
     /**
